@@ -1,0 +1,14 @@
+
+<app-trainer-dash></app-trainer-dash>
+<div *ngIf="msg == ''">
+<form [formGroup]="form" (ngSubmit)="submitForm()" novalidate>
+    <div *ngFor="let dat of Data; let i=index">
+      <label>
+        <input type="checkbox" [value]="dat.value" (change)="onCheckboxChange($event)" />
+        {{dat.name}}
+      </label>
+    </div>
+    <input type="submit" value="Submit">
+  </form>
+
+  </div>

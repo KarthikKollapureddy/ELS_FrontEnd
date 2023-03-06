@@ -1,0 +1,56 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "role": "admin",
+      "fname": "test",
+      "lname": "test",
+      "email": "test@test.com",
+      "password": "Test@123"
+    },
+    {
+      "firstName": "nnnn",
+      "lastName": "nnnn",
+      "userName": "Qwast12@r",
+      "pass": "Qazsw@1234",
+      "dob": "2023-02-27T09:19:06.057Z",
+      "gender": "male",
+      "role": 2,
+      "number": "9876543212",
+      "id": 2
+    },
+    {
+      "firstName": "nnnn",
+      "lastName": "nnnn",
+      "userName": "Qwast12@r",
+      "pass": "Qazsw@1234",
+      "dob": "2023-02-27T09:19:06.057Z",
+      "gender": "male",
+      "role": 2,
+      "number": "9876543212",
+      "id": 3
+    },
+    {
+      "firstName": "ascs",
+      "lastName": "ascx",
+      "userName": "Aasxcd@1234",
+      "pass": "Hello@123",
+      "gender": "male",
+      "role": 3,
+      "number": "1212121221",
+      "dob": "2023-02-17",
+      "id": 4
+    },
+    {
+      "firstName": "hello",
+      "lastName": "hello",
+      "userName": "hello@hi",
+      "pass": "Hello@123",
+      "gender": "male",
+      "role": 3,
+      "number": "9876543218",
+      "dob": "2000-01-01",
+      "id": 5
+    }
+  ]
+}
